@@ -1,0 +1,21 @@
+/* styles/MainContent.css */
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.main-title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.main-description {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+    text-align: center;
+    max-width: 600px;
+}
